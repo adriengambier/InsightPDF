@@ -1,0 +1,5 @@
+chromadb
+langchain-huggingface
+llama-parse
+streamlit
+google-generativeai
